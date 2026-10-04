@@ -2,7 +2,6 @@
 
 A small secret scanner written in Go. It finds leaked API keys, tokens and private keys in a directory or in **every commit of a git repository's history**, including secrets that were "deleted" in a later commit.
 
-Companion code for the article [Build a Secret Scanner in Go: Find Leaked API Keys in Git History](https://rezmoss.com/blog/build-secret-scanner-go-git-history/).
 
 ## Requirements
 
