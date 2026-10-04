@@ -1,0 +1,3 @@
+leakscan
+dist/
+*.sarif
